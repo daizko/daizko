@@ -23,7 +23,7 @@
 ## 🔎 Main Focuses
 - 📖 Learn python better
 - ✏️ Getting better at drawing and planning out ideas
-- 
+
 ## 🌐 Find Me Elsewhere
 
 - 📫 Feel free to reach out and collaborate on anything tech or cars!
