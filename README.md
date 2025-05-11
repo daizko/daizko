@@ -1,10 +1,3 @@
- __   __  _ ___ _  ____  
-| _\ /  \| |_  | |/ /__\ 
-| v | /\ | |/ /|   < \/ |
-|__/|_||_|_|___|_|\_\__/ 
-
-
-
 # 👋 Hi, I'm David!
 
 🎓 I'm a tech enthusiast and student at SPU Nitra (Technical Faculty – RSB program), currently heading into my 2nd year of bachelor's studies.
