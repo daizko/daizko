@@ -5,7 +5,7 @@
 ## 🛠️ Projects & Interests
 
 - 🔧 Tinkering with **ESP32** projects (SSD1306 displays, serial adapters, etc.)
-- 💻 Comfortable with **C**,**C#**, and **Python**
+- 💻 Comfortable with **C**, **C#**, and **Python**
 - 🎮 Working a bit with **Unreal Engine**
 
 ## 💻 Tech I Use
