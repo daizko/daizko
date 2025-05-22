@@ -12,7 +12,7 @@
 
 - **OS**: Windows & Linux  
 - **Editors**: VS Code  
-- **Hardware**: Custom desktop (i7 4770, GTX 1060 FTW 3GB, 32GB RAM), Lenovo IdeaPad 5 Pro 14AHP8 (ryzen 5 7640HS, 16GB RAM, 2.2K IPS), Thinkpad T460 (i5 6300U, 12GB RAM)
+- **Hardware**: Custom desktop (i7 4770, GTX 1650 4GB, 32GB RAM), Lenovo IdeaPad 5 Pro 14AHP8 (Ryzen 5 7640HS, 16GB RAM, 2.2K IPS), Thinkpad T460 (i5 6300U, 12GB RAM)
 - **Mobile**: Galaxy S22 Ultra | iPad Air 6 M2 | Galaxy A53 | Galaxy A50
 
 ## 🚗 Projects in Progress
